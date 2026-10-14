@@ -1,0 +1,241 @@
+countryCode,id,name,code,startDate,endDate,year,clusterCode,cluster,requirements,funding,percentFunded
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8689,"Coordination, Thematics and System Support",175594351,29604583,17
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8684,Education,197686536,28598341,14
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8691,Emergency Telecommunications,1039270,,
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8685,Food Security,1257544309,446026286,35
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8687,Health,485796939,343765290,71
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8690,Logistics,52000000,78125,0
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8682,Multi-purpose Cash Assistance,592625000,45639708,8
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8688,Nutrition,231566600,37205035,16
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8619,Protection,332748667,138496283,42
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8686,Shelter,193730638,48716883,25
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8692,Site Management,70499998,3686732,5
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,8683,"Water, Sanitation and Hygiene",473473500,89873376,19
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,,Not specified,,383313415,
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,2026-01-01,2026-12-31,2026,,Multiple clusters/sectors (shared),,37529589,
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8190,Coordination and Support Services,285054038,52398786,18
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8188,Education,230331261,88023384,38
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8195,Emergency Telecommunications,2520000,1791342,71
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8005,Food Security,1303588029,827297918,63
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8185,Health,596090390,360346944,60
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8194,Logistics,74750000,40882648,55
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8186,Multi-purpose Cash Assistance,370261781,309336217,84
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8192,Nutrition,203000000,41159509,20
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8189,Protection,275665132,128774991,47
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8191,Shelter and non-Food Items,249680000,108075701,43
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8193,Site Management,81345050,4201591,5
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,8187,"Water, Sanitation and Hygiene",400773001,128916251,32
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,,Not specified,,602661102,
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,2025-01-01,2025-12-31,2025,,Multiple clusters/sectors (shared),,45666968,
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7239,Coordination and Support Services,195977725,139474120,71
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7241,Education,175492785,74593633,43
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7591,Emergency Telecommunications,2190530,274123,13
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7240,Food Security,930362613,1162383951,125
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7242,Health,510608680,359058832,70
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7590,Logistics,23189581,74491500,321
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7246,Multi-Purpose Cash Assistance,293440399,67756674,23
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7596,Nutrition,159902458,50519286,32
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7243,Protection,188625201,149321333,79
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7244,Shelter and Non-Food Items,525182246,142261627,27
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7631,Site Management,39721806,28220940,71
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,7245,"Water, Sanitation and Hygiene",378161910,204920050,54
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,,Not specified,,272602224,
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,2024-01-01,2024-12-31,2024,,Multiple clusters/sectors (shared),,175419836,
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6760,Coordination and Support Services,9533315,5046348,53
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6762,Education,26222156,16034084,61
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6761,Food Security,209809128,226623312,108
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6763,Health,34617749,29069851,84
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6767,Multi-cluster/Multi-Purpose Cash,14247547,26680453,187
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6764,Protection,30125434,40004912,133
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6765,Shelter and NFI Cluster,26136745,15519468,59
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,6766,WASH,26037127,6140386,24
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,,Not specified,,4851048,
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,2023-01-01,2023-09-30,2023,,Multiple clusters/sectors (shared),,2400000,
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7427,Coordination and Support Services,31677608,23554601,74
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7433,Education,58599683,24415171,42
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7530,Emergency Telecommunications,409470,,
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7426,Food Security,155488043,157519874,101
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7430,Health,102077500,67483012,66
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7529,Logistics,5708628,5739602,101
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7429,Multi-purpose Cash Assistance,51762290,27215663,53
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7595,Nutrition,14390249,12279255,85
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7432,Protection,25878492,26034155,101
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7428,Shelter and Non-Food Items,107059464,71643870,67
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,7431,"Water, Sanitation and Hygiene",76046880,47729625,63
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,,Not specified,,132582222,
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,2023-10-01,2023-12-31,2023,,Multiple clusters/sectors (shared),,55705455,
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6304,Coordination and Support Services,13310395,4105494,31
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6306,Education,37266934,37758705,101
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6305,Food Security,271144107,228924982,84
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6307,Health,48402400,52411522,108
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6308,Protection,47143024,26677570,57
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6309,Shelter and NFI Cluster,60617187,42601562,70
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,6310,WASH,31988155,29456830,92
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,,Not specified,,44275413,
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,2022-01-01,2022-12-31,2022,,Multiple clusters/sectors (shared),,0,
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5852,Coordination and Support Services,10710499,8511743,79
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5847,Education,25302737,19683628,78
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5848,Food Security,261675900,194496819,74
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5849,Health,46388295,39535582,85
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5853,Protection,29907831,19032639,64
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5851,Shelter and NFI Cluster,16873288,9336097,55
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,5850,WASH,26708780,7424982,28
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,,Not specified,,52575833,
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,2021-01-01,2021-12-31,2021,,Multiple clusters/sectors (shared),,25889605,
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6202,Coordination and Support Services,2813094,,
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6200,Education,8000000,6730837,84
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6196,Food Security,33096958,27555703,83
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6198,Health and  Nutrition,10045000,6724461,67
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6199,Protection,9615000,2350219,24
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6197,Shelter and NFI,19011760,7037622,37
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,6201,WASH,6456423,5315873,82
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,,Not specified,,5829973,
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,2021-05-27,2021-08-27,2021,,Multiple clusters/sectors (shared),,1085189,
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4902,Coordination and Support Services,9767837,3652787,37
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4906,Education,15331696,22547913,147
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,5524,Education COVID-19,7120698,2518896,35
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4905,Food Security Sector,213922868,125586449,59
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,5519,Food Security Sector COVID-19,18017577,10511246,58
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4903,Health and Nutrition Cluster,35954220,23489846,65
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,5520,Health and Nutrition Cluster COVID-19,31304992,32060300,102
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4904,Protection,33674019,39796915,118
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,5522,Protection COVID-19,2365740,1180043,50
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4908,Shelter/NFIs,10209644,3155155,31
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,5521,Shelter/NFIs COVID-19,3570551,650006,18
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,4907,WASH,27615354,10394299,38
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,5523,WASH COVID-19,8802817,4536303,52
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,,Not specified,,39883239,
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,2020-01-01,2020-12-31,2020,,Multiple clusters/sectors (shared),,7456391,
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4296,Coordination and Support Services,18489828,3706809,20
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4294,Education,15318372,6360351,42
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4293,Food Security Sector,205651973,151917267,74
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4292,Health and Nutrition Cluster,31496553,19808878,63
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4290,Protection,35883244,23415540,65
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4295,Shelter/NFIs,14294447,7758974,54
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,4291,WASH,27401611,20474650,75
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,,Not specified,,55463942,
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,2019-01-01,2019-12-30,2019,,Multiple clusters/sectors (shared),,3642911,
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3974,Coordination and Support Services,27150327,7738948,29
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3968,Education,20325652,5896398,29
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3972,Food Security Sector,288892657,122310924,42
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3970,Health and Nutrition Cluster,26974067,20226104,75
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3973,Protection,40888031,18409337,45
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3975,Shelter/NFIs,89992089,11982669,13
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,3971,WASH,45498932,11905317,26
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,,Not specified,,45588214,
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,2018-01-01,2018-12-31,2018,,Multiple clusters/sectors (shared),,0,
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3312,Coordination and Support Services,19024998,11389487,60
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3313,Education,20261954,5669482,28
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3314,Food Security,299683368,152441023,51
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3315,Health and Nutrition,18328004,12790875,70
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3316,Protection,53770798,30667583,57
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3317,Shelter NFIs,103615967,32473623,31
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,3318,WASH,37191554,14334955,39
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,,Not specified,,-733370,
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,2017-01-01,2017-12-31,2017,,Multiple clusters/sectors (shared),,0,
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3219,Coordination and Support Services,16490725,10279614,62
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3220,Education,18012851,7191056,40
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3221,Food Security,322785419,159399848,49
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3222,Health and Nutrition,25765842,9532943,37
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3223,Protection,45928028,27581660,60
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3224,Shelterr NFIs,112089693,45006355,40
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,3225,WASH,29629938,9187590,31
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,,Not specified,,15772653,
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,2016-01-01,2016-12-31,2016,,Multiple clusters/sectors (shared),,0,
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2785,Coordination and Support Services,23235547,15627990,67
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2786,Education,20330672,9277544,46
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2787,Food Security,324954229,196657381,61
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2788,Health and Nutrition,21212516,10385561,49
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2789,Protection,51935541,33908580,65
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2792,Shelter/NFI,225168708,104827956,47
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,2790,WASH,39213897,19862601,51
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,,Not specified,,7364212,
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2015-01-01,2015-12-31,2015,,Multiple clusters/sectors (shared),,0,
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2555,Coordination and Support Services,21193179,44608290,210
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2556,Education,47903132,11286265,24
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2557,Food Security,538318973,260150356,48
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2558,Health and Nutrition,39057959,25329827,65
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2559,Protection,57446178,37333730,65
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2562,Shelter/NFI,163968741,93123437,57
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,2560,WASH,63198292,15625987,25
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,,Not specified,,19519123,
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2014-01-01,2014-12-31,2014,,Multiple clusters/sectors (shared),,0,
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1242,AGRICULTURE,31665733,15189059,48
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1243,CASH FOR WORK,70481900,38233584,54
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1244,COORDINATION AND SUPPORT SERVICES,21295427,20258116,95
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1245,EDUCATION,22408092,8211803,37
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1246,FOOD,160052254,127258014,80
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1247,HEALTH AND NUTRITION,22536007,11759666,52
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1248,PROTECTION,53093279,33412052,63
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,1249,"WATER, SANITATION AND HYGIENE",19307048,6041245,31
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,,Not specified,,9684379,
+PSE,398,occupied Palestinian territory 2013,CPSE13,2013-01-01,2013-12-31,2013,,Multiple clusters/sectors (shared),,0,
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1041,AGRICULTURE,24921339,15298559,61
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1042,CASH FOR WORK,95559928,33901046,35
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1043,COORDINATION AND SUPPORT SERVICES,21167518,20260026,96
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1044,EDUCATION,16662763,9112081,55
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1045,FOOD,170513876,146495641,86
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1046,HEALTH AND NUTRITION,20742170,21586420,104
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1047,PROTECTION,46131077,34045948,74
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,1048,"WATER, SANITATION AND HYGIENE",24208531,13517173,56
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,,Not specified,,17249413,
+PSE,374,occupied Palestinian territory 2012,CPSE12,2012-01-01,2012-12-31,2012,,Multiple clusters/sectors (shared),,0,
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,786,AGRICULTURE,35615978,13256753,37
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,787,CASH FOR WORK AND CASH ASSISTANCE,143756641,56962214,40
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,788,COORDINATION AND SUPPORT SERVICES,20856891,21439660,103
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,789,EDUCATION,16412085,4929661,30
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,790,FOOD SECURITY,203960496,130646480,64
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,791,HEALTH AND NUTRITION,21112737,16354771,77
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,792,PROTECTION,39846071,27999263,70
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,793,SHELTER AND NON-FOOD ITEMS,21580342,8950783,41
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,794,"WATER, SANITATION AND HYGIENE",33786722,13131869,39
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,,Not specified,,12851084,
+PSE,348,occupied Palestinian territory 2011,CPSE11,2011-01-01,2011-12-31,2011,,Multiple clusters/sectors (shared),,0,
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,648,AGRICULTURE,46608762,11190176,24
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,656,CASH FOR WORK AND CASH ASSISTANCE,193033142,67096761,35
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,657,CLUSTER NOT SPECIFIED ,,51042769,
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,649,COORDINATION AND SUPPORT SERVICES,23307169,22067853,95
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,650,EDUCATION ,24024569,4187327,17
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,651,FOOD SECURITY ,183154461,117326671,64
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,652,HEALTH AND NUTRITION,22350184,18659463,83
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,653,PROTECTION,55354485,30574483,55
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,654,SHELTER AND NON-FOOD ITEMS,17010776,10604706,62
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,655,"WATER, SANITATION AND HYGIENE",38564991,15639175,41
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,,Not specified,,-18651683,
+PSE,316,occupied Palestinian territory 2010,CPSE10,2010-01-01,2010-12-31,2010,,Multiple clusters/sectors (shared),,0,
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,511,Agriculture,49115482,26491773,54
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,514,Cash for Work and Cash Assistance,145342314,133332176,92
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,513,Coordination and Support Services,42277754,44693538,106
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,518,Early Recovery,15461837,7583348,49
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,509,Education,34761396,17573177,51
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,512,Food Security and Nutrition,269002362,246694928,92
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,508,Health,47798084,23343916,49
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,510,Protection,52775857,30950605,59
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,517,Shelter and non-food items,116576134,63950641,55
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,515,"Water, Sanitation and Hygiene",31410785,20413632,65
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,,Not specified,,28672317,
+PSE,290,occupied Palestinian territory 2009,CPSE09,2009-01-01,2009-12-31,2009,,Multiple clusters/sectors (shared),,3000000,
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,358,AGRICULTURE,21112430,11725746,56
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,357,CHILD PROTECTION AND PSYCHO-SOCIAL,18309446,7932583,43
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,356,COORDINATION AND SUPPORT SERVICES,17949974,25034360,139
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,359,EDUCATION,5287663,3652462,69
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,360,FOOD AID AND FOOD SECURITY,203888094,171813525,84
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,361,HEALTH AND NUTRITION,21731069,19106579,88
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,362,JOB CREATION / CASH ASSISTANCE,138444574,79742091,58
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,365,MULTI-SECTOR,780308,780308,100
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,364,PROTECTION / HUMAN RIGHTS / RULE OF LAW ,4034724,2154656,53
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,366,SECTOR NOT YET SPECIFIED,2000000,,
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,363,WATER AND SANITATION,18685679,7898779,42
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,,Not specified,,7217353,
+PSE,261,occupied Palestinian territory 2008,CPSE08,2008-01-01,2008-12-31,2008,,Multiple clusters/sectors (shared),,0,
+PSE,228,occupied Palestinian territory 2007,CPSE07,2007-01-01,2007-12-31,2007,301,WATER & SANITATION,1110000,695951,63
+PSE,228,occupied Palestinian territory 2007,CPSE07,2007-01-01,2007-12-31,2007,,Not specified,,278318927,
+PSE,228,occupied Palestinian territory 2007,CPSE07,2007-01-01,2007-12-31,2007,,Multiple clusters/sectors (shared),,0,
+PSE,199,occupied Palestinian territory 2006,CPSE06,2006-01-01,2006-12-31,2006,,Not specified,,275830801,
+PSE,199,occupied Palestinian territory 2006,CPSE06,2006-01-01,2006-12-31,2006,,Multiple clusters/sectors (shared),,0,
+PSE,168,occupied Palestinian territory 2005,CPSE05,2005-01-01,2005-12-31,2005,,Not specified,,213252866,
+PSE,168,occupied Palestinian territory 2005,CPSE05,2005-01-01,2005-12-31,2005,,Multiple clusters/sectors (shared),,0,
+PSE,146,occupied Palestinian territory 2004,CPSE04,2004-01-01,2004-12-31,2004,,Not specified,,177281661,
+PSE,146,occupied Palestinian territory 2004,CPSE04,2004-01-01,2004-12-31,2004,,Multiple clusters/sectors (shared),,0,
+PSE,118,occupied Palestinian territory 2003,CPSE03,2003-01-01,2003-12-31,2003,,Not specified,,175863110,
+PSE,118,occupied Palestinian territory 2003,CPSE03,2003-01-01,2003-12-31,2003,,Multiple clusters/sectors (shared),,0,

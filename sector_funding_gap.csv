@@ -1,0 +1,56 @@
+countryCode,sector,needed_musd,funded_musd,pct_funded
+COD,CCCM,89.1,6.3,7.0
+COD,Education,443.2,93.6,21.1
+COD,Multi-sector and Refugee,953.2,212.5,22.3
+COD,Shelter and NFI,812.9,237.5,29.2
+COD,Health,2808.8,952.9,33.9
+COD,Food,5875.9,2055.7,35.0
+COD,Protection,890.6,346.1,38.9
+COD,WASH,782.4,306.8,39.2
+COD,Logistics and Telecoms,318.8,128.8,40.4
+COD,Coordination and Support,234.1,121.7,52.0
+COD,Multi-purpose Cash,95.7,84.2,88.0
+COD,Others,1.7,2.5,147.5
+HTI,Others,14.3,0.1,0.4
+HTI,Shelter and NFI,302.0,46.9,15.5
+HTI,Multi-sector and Refugee,105.0,16.5,15.8
+HTI,Education,237.7,48.3,20.3
+HTI,Multi-purpose Cash,26.6,5.6,21.0
+HTI,WASH,338.1,100.2,29.6
+HTI,Food,1900.8,569.1,29.9
+HTI,Protection,293.1,97.8,33.4
+HTI,Health,348.9,138.2,39.6
+HTI,CCCM,20.1,10.3,51.4
+HTI,Logistics and Telecoms,106.9,86.3,80.7
+HTI,Coordination and Support,21.8,29.4,134.8
+PSE,CCCM,121.1,32.4,26.8
+PSE,Shelter and NFI,1018.3,400.3,39.3
+PSE,Coordination and Support,558.8,236.7,42.4
+PSE,WASH,982.6,444.8,45.3
+PSE,Education,583.7,292.3,50.1
+PSE,Multi-purpose Cash,729.7,431.0,59.1
+PSE,Health,1792.8,1074.1,59.9
+PSE,Protection,643.0,433.2,67.4
+PSE,Food,3397.1,2960.9,87.2
+PSE,Logistics and Telecoms,108.8,123.2,113.2
+SDN,CCCM,30.7,1.9,6.1
+SDN,Multi-sector and Refugee,3247.2,558.9,17.2
+SDN,Logistics and Telecoms,437.3,146.7,33.5
+SDN,Multi-purpose Cash,201.8,69.3,34.4
+SDN,Education,692.9,238.6,34.4
+SDN,Shelter and NFI,858.6,312.5,36.4
+SDN,WASH,1095.9,400.1,36.5
+SDN,Protection,1126.3,446.1,39.6
+SDN,Health,2789.7,1197.5,42.9
+SDN,Food,4323.8,2957.6,68.4
+SDN,Coordination and Support,129.0,104.7,81.2
+UKR,WASH,1597.9,695.4,43.5
+UKR,CCCM,110.5,52.4,47.4
+UKR,Food,3261.4,1669.1,51.2
+UKR,Shelter and NFI,2201.0,1134.3,51.5
+UKR,Multi-purpose Cash,3745.7,2633.5,70.3
+UKR,Education,408.6,319.1,78.1
+UKR,Protection,1926.4,1593.1,82.7
+UKR,Health,986.2,888.2,90.1
+UKR,Coordination and Support,79.6,107.2,134.6
+UKR,Logistics and Telecoms,34.7,49.9,143.8

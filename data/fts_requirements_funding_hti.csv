@@ -1,0 +1,54 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,percentFunded
+HTI,,Not specified,,,,,,2029,,108557,
+HTI,,Not specified,,,,,,2028,,4036399,
+HTI,,Not specified,,,,,,2027,,12884209,
+HTI,1503,Haiti Besoins Humanitaires et Plan de Réponse 2026,HHTI26,2070,Humanitarian needs and response plan,2026-01-01,2026-12-31,2026,880327426,431468266,49
+HTI,,Not specified,,,,,,2026,,22655179,
+HTI,1257,Haiti Besoins Humanitaires et Plan de Réponse 2025,HHTI25,2070,Humanitarian needs and response plan,2025-01-01,2025-12-31,2025,908159989,242661132,27
+HTI,,Not specified,,,,,,2025,,59377261,
+HTI,1178,Haïti Besoins Humanitaires et Plan de Réponse 2024,HHTI24,2070,Humanitarian needs and response plan,2024-01-01,2024-12-31,2024,673767352,299538470,44
+HTI,,Not specified,,,,,,2024,,68795924,
+HTI,1121,Haïti Plan de Réponse Humanitaire 2023,HHTI23,4,Humanitarian response plan,2023-01-01,2023-12-31,2023,719857713,247971799,34
+HTI,,Not specified,,,,,,2023,,113140365,
+HTI,1096,Haïti Plan de Réponse Humanitaire 2022,HHTI22,4,Humanitarian response plan,2022-01-01,2022-12-31,2022,373165734,192866899,52
+HTI,1147,Haïti Choléra+ Appel Éclair 2022,FHTI2223,5,Flash appeal,2022-10-16,2023-04-15,2022,145600234,14400156,10
+HTI,,Not specified,,,,,,2022,,37227246,
+HTI,1043,Haïti Plan de Réponse Humanitaire 2021,HHTI21,4,Humanitarian response plan,2021-01-01,2021-12-31,2021,235595167,65475775,28
+HTI,1056,Haiti Earthquake Flash Appeal 2021,FHTI2122,5,Flash appeal,2021-08-16,2022-02-15,2021,187295000,77677979,41
+HTI,,Not specified,,,,,,2021,,88766662,
+HTI,920,Haïti Plan de Réponse Humanitaire 2020,HHTI20,4,Humanitarian response plan,2020-01-01,2020-12-31,2020,471993035,153296222,32
+HTI,,Not specified,,,,,,2020,,66742865,
+HTI,679,Haïti Plan de Réponse Humanitaire 2019,HHTI19,4,Humanitarian response plan,2019-01-01,2019-12-31,2019,126207627,41261689,33
+HTI,,Not specified,,,,,,2019,,39403569,
+HTI,649,Haiti Humanitarian Response Plan 2018,HHTI18,4,Humanitarian response plan,2018-01-01,2018-12-31,2018,252200142,29852090,12
+HTI,,Not specified,,,,,,2018,,47621274,
+HTI,543,Haiti Humanitarian Response Plan 2017,HHTI17,4,Humanitarian response plan,2017-01-01,2017-12-31,2017,192223638,77366380,40
+HTI,,Not specified,,,,,,2017,,44624522,
+HTI,506,Haiti Humanitarian Response Plan 2016,HHTI16,4,Humanitarian response plan,2016-01-01,2016-12-31,2016,193786861,68468358,35
+HTI,527,Haiti Hurricane Matthew Flash Appeal 2016,FHTI16,5,Flash appeal,2016-10-10,2016-12-31,2016,139026849,86399238,62
+HTI,,Not specified,,,,,,2016,,79412926,
+HTI,489,Haiti Urgent Request for Humanitarian Funding 2015,FHTI15,5,Flash appeal,2015-08-01,2015-12-31,2015,25520762,13300781,52
+HTI,,Not specified,,,,,,2015,,44393336,
+HTI,432,Haiti Strategic Response Plan 2014,HHTI14,2071,Strategic response plan,2014-01-01,2014-12-31,2014,157454953,126466687,80
+HTI,,Not specified,,,,,,2014,,76574258,
+HTI,422,Haiti Humanitarian Action Plan 2013,CHTI13,110,Consolidated appeals process,2013-01-01,2013-12-31,2013,152343810,72771635,48
+HTI,,Not specified,,,,,,2013,,62703498,
+HTI,385,Haiti 2012,CHTI12,110,Consolidated appeals process,2012-01-01,2012-12-31,2012,151080810,70311344,47
+HTI,,Not specified,,,,,,2012,,57466092,
+HTI,362,Haiti 2011,CHTI1011,110,Consolidated appeals process,2010-12-01,2011-12-31,2011,382390619,220820927,58
+HTI,,Not specified,,,,,,2011,,273331135,
+HTI,337,Haiti Humanitarian Appeal (Revised) (January - December 2010),FHTI10,5,Flash appeal,2010-01-12,2010-12-31,2010,1502221330,1108519732,74
+HTI,,Not specified,,,,,,2010,,2483791264,
+HTI,,Not specified,,,,,,2009,,18050192,
+HTI,286,Haiti Flash Appeal (Revised) 2008,FHTI0809,5,Flash appeal,2008-09-01,2009-03-31,2008,121100791,73233898,60
+HTI,,Not specified,,,,,,2008,,170208007,
+HTI,,Not specified,,,,,,2007,,38122327,
+HTI,,Not specified,,,,,,2006,,25926282,
+HTI,,Not specified,,,,,,2005,,14909386,
+HTI,155,Haiti  2004,FHTI04,5,Flash appeal,2004-03-01,2004-08-31,2004,35797594,15422992,43
+HTI,160,Haiti Floods  2004,FHTI0405,5,Flash appeal,2004-10-01,2005-03-31,2004,37363304,17529992,47
+HTI,,Not specified,,,,,,2004,,46881227,
+HTI,125,Haiti (PIR) 2003,OHTI03,6,Other,2003-03-01,2003-08-31,2003,14400757,5433279,38
+HTI,,Not specified,,,,,,2003,,36265919,
+HTI,,Not specified,,,,,,2002,,692430,
+HTI,,Not specified,,,,,,2001,,110174,

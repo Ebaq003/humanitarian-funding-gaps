@@ -1,0 +1,60 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,percentFunded
+COD,,Not specified,,,,,,2030,,127714,
+COD,,Not specified,,,,,,2029,,5839286,
+COD,,Not specified,,,,,,2028,,23526377,
+COD,,Not specified,,,,,,2027,,53418981,
+COD,1509,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2026,HCOD26,2070,Humanitarian needs and response plan,2026-01-01,2026-12-31,2026,2132641156,1133126944,53
+COD,,Not specified,,,,,,2026,,74287395,
+COD,1261,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,HCOD25,2070,Humanitarian needs and response plan,2025-01-01,2025-12-31,2025,2538016151,682242485,27
+COD,,Not specified,,,,,,2025,,114520062,
+COD,1187,République Démocratique du Congo Plan de Réponse Humanitaire 2024,HCOD24,4,Humanitarian response plan,2024-01-01,2024-12-31,2024,2580627746,1327702827,51
+COD,,Not specified,,,,,,2024,,108472236,
+COD,1113,République Démocratique du Congo Plan de Réponse Humanitaire 2023,HCOD23,4,Humanitarian response plan,2023-01-01,2023-12-31,2023,2252684083,956632880,42
+COD,,Not specified,,,,,,2023,,143155438,
+COD,1093,République Démocratique du Congo Plan de Réponse Humanitaire 2022,HCOD22,4,Humanitarian response plan,2022-01-01,2022-12-31,2022,1881674597,1005134053,53
+COD,,Not specified,,,,,,2022,,105849461,
+COD,1026,République Démocratique du Congo Plan de Réponse Humanitaire 2021,HCOD21,4,Humanitarian response plan,2021-01-01,2021-12-31,2021,1984303303,869811526,44
+COD,,Not specified,,,,,,2021,,240572549,
+COD,919,République Démocratique du Congo Plan de Réponse Humanitaire 2020,HCOD20,4,Humanitarian response plan,2020-01-01,2020-12-31,2020,2069134820,866481462,42
+COD,1006,GHRP (COVID) Famine Prevention 2020,OGLBL20b,6,Other,2020-05-01,2020-12-31,2020,,7000000,
+COD,,Not specified,,,,,,2020,,311441379,
+COD,673,République Démocratique du Congo Plan de Réponse Humanitaire 2019,HCOD19,4,Humanitarian response plan,2019-01-01,2019-12-31,2019,1653700000,751131559,45
+COD,,Not specified,,,,,,2019,,483167375,
+COD,652,République Démocratique du Congo Plan de Réponse Humanitaire 2018,HCOD18,4,Humanitarian response plan,2018-01-01,2018-12-31,2018,1675200000,827599449,49
+COD,,Not specified,,,,,,2018,,210154969,
+COD,587,République Démocratique du Congo Plan de Réponse Humanitaire 2017,HCOD17,4,Humanitarian response plan,2017-02-13,2017-12-31,2017,812614297,478224096,59
+COD,,Not specified,,,,,,2017,,84707182,
+COD,511,République Démocratique du Congo Plan de Réponse Humanitaire 2016,HCOD16,4,Humanitarian response plan,2016-01-01,2016-12-31,2016,690000000,414772852,60
+COD,,Not specified,,,,,,2016,,65852029,
+COD,457,République Démocratique du Congo Plan de Réponse Stratégique 2015,HCOD15,2071,Strategic response plan,2015-01-01,2015-12-31,2015,692000000,390542616,56
+COD,,Not specified,,,,,,2015,,86479065,
+COD,427,République Démocratique du Congo Plan de Réponse Stratégique 2014,SCOD14,2071,Strategic response plan,2014-01-01,2014-12-31,2014,832097250,394191520,47
+COD,,Not specified,,,,,,2014,,166015356,
+COD,403,Democratic Republic of the Congo 2013,CCOD1314,110,Consolidated appeals process,2013-01-01,2014-05-01,2013,892643970,629381833,71
+COD,,Not specified,,,,,,2013,,114201070,
+COD,381,Democratic Republic of the Congo 2012,CCOD1213,110,Consolidated appeals process,2012-01-01,2013-03-31,2012,791331026,584431727,74
+COD,,Not specified,,,,,,2012,,72959140,
+COD,358,Democratic Republic of the Congo 2011,CCOD1112,110,Consolidated appeals process,2011-01-01,2012-12-31,2011,735754098,488391703,66
+COD,,Not specified,,,,,,2011,,54195863,
+COD,324,Democratic Republic of the Congo 2010,CCOD10,110,Consolidated appeals process,2010-01-01,2010-12-31,2010,827616628,521026865,63
+COD,,Not specified,,,,,,2010,,60580280,
+COD,309,Democratic Republic of the Congo 2009,CCOD09,110,Consolidated appeals process,2009-01-01,2009-12-30,2009,946252242,644401677,68
+COD,,Not specified,,,,,,2009,,47580927,
+COD,268,Democratic Republic of the Congo 2008 Humanitarian Action Plan,CCOD08,110,Consolidated appeals process,2008-01-01,2008-12-31,2008,736511765,607264789,82
+COD,,Not specified,,,,,,2008,,39381866,
+COD,232,Democratic Republic of the Congo 2007 Humanitarian Action Plan,CCOD07,110,Consolidated appeals process,2007-01-01,2007-12-31,2007,686591107,463818035,68
+COD,,Not specified,,,,,,2007,,47368492,
+COD,206,Democratic Republic of the Congo Action Plan 2006,CCOD06,110,Consolidated appeals process,2006-01-01,2006-12-31,2006,696024728,354195238,51
+COD,,Not specified,,,,,,2006,,94394180,
+COD,163,Democratic Republic of the Congo 2005,CCOD05,110,Consolidated appeals process,2005-01-01,2005-12-31,2005,219757245,142656881,65
+COD,,Not specified,,,,,,2005,,127546050,
+COD,144,Democratic Republic of the Congo 2004,CCOD04,110,Consolidated appeals process,2004-01-01,2004-12-31,2004,162602463,118811355,73
+COD,,Not specified,,,,,,2004,,105222919,
+COD,113,Democratic Republic of the Congo 2003,CCOD03,2170,Consolidated inter-agency appeal,2003-01-01,2003-12-31,2003,229407473,108171010,47
+COD,,Not specified,,,,,,2003,,78954757,
+COD,88,Democratic Republic of the Congo 2002,CCOD02,2170,Consolidated inter-agency appeal,2002-01-01,2002-12-31,2002,202201192,98431642,49
+COD,,Not specified,,,,,,2002,,78216155,
+COD,40,Democratic Republic of the Congo 2001,CCOD01,2170,Consolidated inter-agency appeal,2001-01-01,2001-12-31,2001,122856090,83132706,68
+COD,,Not specified,,,,,,2001,,70995705,
+COD,51,Democratic Republic of the Congo 2000,CCOD00,2170,Consolidated inter-agency appeal,2000-01-01,2000-12-31,2000,37039207,11772710,32
+COD,,Not specified,,,,,,2000,,17097892,

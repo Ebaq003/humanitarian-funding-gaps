@@ -1,0 +1,60 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,percentFunded
+SDN,,Not specified,,,,,,2029,,6091474,
+SDN,,Not specified,,,,,,2028,,16082035,
+SDN,,Not specified,,,,,,2027,,85445931,
+SDN,1514,Sudan Humanitarian Needs and Response Plan 2026,HSDN26,2070,Humanitarian needs and response plan,2026-01-01,2026-12-31,2026,2866228593,1235145204,43
+SDN,,Not specified,,,,,,2026,,77595038,
+SDN,1220,Sudan Humanitarian Needs and Response Plan 2025,HSDN25,2070,Humanitarian needs and response plan,2025-01-01,2025-12-31,2025,4162518656,1665355463,40
+SDN,,Not specified,,,,,,2025,,119021642,
+SDN,1188,Sudan Humanitarian Needs and Response Plan 2024,HSDN24,2070,Humanitarian needs and response plan,2024-01-01,2024-12-31,2024,2695680744,1887870365,70
+SDN,,Not specified,,,,,,2024,,154054460,
+SDN,1123,Sudan Humanitarian Response Plan 2023,HSDN23,4,Humanitarian response plan,2023-01-01,2023-12-31,2023,2565230201,1319365441,51
+SDN,,Not specified,,,,,,2023,,181590364,
+SDN,1068,Sudan Humanitarian Response Plan 2022,HSDN22,4,Humanitarian response plan,2022-01-01,2022-12-31,2022,1936697740,1113820373,58
+SDN,,Not specified,,,,,,2022,,83207847,
+SDN,1014,Sudan Humanitarian Response Plan 2021,HSDN21,4,Humanitarian response plan,2021-01-01,2021-12-31,2021,1939814880,735578561,38
+SDN,,Not specified,,,,,,2021,,179025143,
+SDN,870,Sudan Humanitarian Response Plan 2020,HSDN20,4,Humanitarian response plan,2020-01-01,2020-12-31,2020,1633403129,871899479,53
+SDN,,Not specified,,,,,,2020,,127697181,
+SDN,670,Sudan Humanitarian Response Plan 2019,HSDN19,4,Humanitarian response plan,2019-01-01,2019-12-31,2019,1149289490,605044446,53
+SDN,,Not specified,,,,,,2019,,77317042,
+SDN,635,Sudan Humanitarian Response Plan 2018,HSDN18,4,Humanitarian response plan,2018-01-01,2018-12-24,2018,1007555093,611793451,61
+SDN,,Not specified,,,,,,2018,,134088325,
+SDN,584,Sudan Humanitarian Response Plan 2017,HSDN17,4,Humanitarian response plan,2017-01-01,2017-12-31,2017,803966226,477461042,59
+SDN,,Not specified,,,,,,2017,,71909084,
+SDN,520,Sudan Humanitarian Response Plan 2016,HSDN16,4,Humanitarian response plan,2016-01-01,2016-12-31,2016,971776614,566363681,58
+SDN,,Not specified,,,,,,2016,,81779593,
+SDN,460,Sudan Strategic Response Plan 2015,HSDN15,2071,Strategic response plan,2015-01-01,2015-12-31,2015,1035894093,578228027,56
+SDN,,Not specified,,,,,,2015,,70323834,
+SDN,451,South Sudan Regional Refugee Response Plan 2014,RXSSDREG14,111,Regional response plan,2014-01-01,2014-12-31,2014,6097545,29367921,482
+SDN,437,Sudan Strategic Response Plan 2014,HSDN14,2071,Strategic response plan,2014-01-01,2014-12-31,2014,985696822,551070132,56
+SDN,,Not specified,,,,,,2014,,70995111,
+SDN,413,Sudan 2013,CSDN13,110,Consolidated appeals process,2013-01-01,2013-12-31,2013,985120878,550846869,56
+SDN,,Not specified,,,,,,2013,,84790527,
+SDN,377,Sudan 2012,CSDN12,110,Consolidated appeals process,2012-01-01,2012-12-31,2012,1051018271,585279169,56
+SDN,,Not specified,,,,,,2012,,93556619,
+SDN,350,Sudan 2011,CSDN1112,110,Consolidated appeals process,2011-01-01,2012-01-31,2011,1132952016,812424912,72
+SDN,,Not specified,,,,,,2011,,113899303,
+SDN,321,Sudan 2010,CSDN10,110,Consolidated appeals process,2010-01-01,2010-12-31,2010,1843386608,1217023072,66
+SDN,,Not specified,,,,,,2010,,184926048,
+SDN,288,Sudan 2009,CSDN09,110,Consolidated appeals process,2009-01-01,2009-12-31,2009,2111251778,1483176604,70
+SDN,,Not specified,,,,,,2009,,167796801,
+SDN,269,Sudan Work Plan 2008 (Humanitarian/Early Recovery Component) ,CSDN08,110,Consolidated appeals process,2008-01-01,2008-12-31,2008,2004531299,1404882164,70
+SDN,,Not specified,,,,,,2008,,340833956,
+SDN,252,Sudan Flash Appeal: Flood Response 2007,FSDN0708,5,Flash appeal,2007-08-01,2008-01-31,2007,34651239,12473674,36
+SDN,229,Sudan Work Plan 2007 (Humanitarian Action component) ,CSDN07,110,Consolidated appeals process,2007-01-01,2007-12-31,2007,1333440796,1087170043,82
+SDN,,Not specified,,,,,,2007,,400900684,
+SDN,205,Sudan Work Plan 2006 (Humanitarian Action component),CSDN06,110,Consolidated appeals process,2006-01-01,2006-12-31,2006,1595020717,1076865997,68
+SDN,,Not specified,,,,,,2006,,397170852,
+SDN,178,Sudan - Humanitarian & Recovery Components of the 2005 Work Plan,OSDN05,6,Other,2005-01-01,2005-12-31,2005,1910110699,1018855336,53
+SDN,,Not specified,,,,,,2005,,418103321,
+SDN,141,Sudan 2004,CSDN04,110,Consolidated appeals process,2004-01-01,2004-12-31,2004,726641111,553756188,76
+SDN,,Not specified,,,,,,2004,,462599397,
+SDN,112,Sudan 2003,CSDN03,2170,Consolidated inter-agency appeal,2003-01-01,2003-12-31,2003,262967857,195426872,74
+SDN,,Not specified,,,,,,2003,,162434360,
+SDN,74,Sudan 2002,CSDN02,2170,Consolidated inter-agency appeal,2002-01-01,2002-12-31,2002,274581481,173500956,63
+SDN,,Not specified,,,,,,2002,,94189152,
+SDN,46,Sudan 2001,CSDN01,2170,Consolidated inter-agency appeal,2001-01-01,2001-12-31,2001,251970846,155737624,62
+SDN,,Not specified,,,,,,2001,,78552326,
+SDN,60,Sudan 2000,CSDN00,2170,Consolidated inter-agency appeal,2000-01-01,2000-12-31,2000,131511144,107254563,82
+SDN,,Not specified,,,,,,2000,,22856426,

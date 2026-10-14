@@ -1,0 +1,35 @@
+countryCode,year,typeName,plan_name,Needed,Funded,pct_funded,pct_funded_csv
+COD,2020,Humanitarian response plan,République Démocratique du Congo Plan de Réponse Humanitaire 2020,2069134820.0,866481462.0,41.9,42.0
+COD,2021,Humanitarian response plan,République Démocratique du Congo Plan de Réponse Humanitaire 2021,1984303303.0,869811526.0,43.8,44.0
+COD,2022,Humanitarian response plan,République Démocratique du Congo Plan de Réponse Humanitaire 2022,1881674597.0,1005134053.0,53.4,53.0
+COD,2023,Humanitarian response plan,République Démocratique du Congo Plan de Réponse Humanitaire 2023,2252684083.0,956632880.0,42.5,42.0
+COD,2024,Humanitarian response plan,République Démocratique du Congo Plan de Réponse Humanitaire 2024,2580627746.0,1327702827.0,51.4,51.0
+COD,2025,Humanitarian needs and response plan,République Démocratique du Congo Besoins Humanitaires et Plan de Réponse 2025,2538016151.0,682242485.0,26.9,27.0
+HTI,2020,Humanitarian response plan,Haïti Plan de Réponse Humanitaire 2020,471993035.0,153296222.0,32.5,32.0
+HTI,2021,Flash appeal,Haiti Earthquake Flash Appeal 2021,187295000.0,77677979.0,41.5,41.0
+HTI,2021,Humanitarian response plan,Haïti Plan de Réponse Humanitaire 2021,235595167.0,65475775.0,27.8,28.0
+HTI,2022,Flash appeal,Haïti Choléra+ Appel Éclair 2022,145600234.0,14400156.0,9.9,10.0
+HTI,2022,Humanitarian response plan,Haïti Plan de Réponse Humanitaire 2022,373165734.0,192866899.0,51.7,52.0
+HTI,2023,Humanitarian response plan,Haïti Plan de Réponse Humanitaire 2023,719857713.0,247971799.0,34.4,34.0
+HTI,2024,Humanitarian needs and response plan,Haïti Besoins Humanitaires et Plan de Réponse 2024,673767352.0,299538470.0,44.5,44.0
+HTI,2025,Humanitarian needs and response plan,Haiti Besoins Humanitaires et Plan de Réponse 2025,908159989.0,242661132.0,26.7,27.0
+PSE,2020,Humanitarian response plan,Occupied Palestinian Territory Humanitarian Response Plan 2020,420381684.0,327419788.0,77.9,78.0
+PSE,2021,Flash appeal,Escalation of Hostilities in the OPT  Flash Appeal 2021,94862068.0,46920546.0,49.5,49.0
+PSE,2021,Humanitarian response plan,Occupied Palestinian Territory Humanitarian Response Plan 2021,417567330.0,376486928.0,90.2,90.0
+PSE,2022,Humanitarian response plan,Occupied Palestinian Territory Humanitarian Response Plan 2022,509872202.0,466212078.0,91.4,91.0
+PSE,2023,Flash appeal,Escalation of Hostilities in the OPT Flash Appeal 2023,629098307.0,651902505.0,103.6,104.0
+PSE,2023,Humanitarian response plan,Occupied Palestinian Territory Humanitarian Response Plan 2023,376729201.0,372369862.0,98.8,99.0
+PSE,2024,Flash appeal,Escalation of Hostilities in the OPT Flash Appeal 2024,3422855934.0,2901298129.0,84.8,85.0
+PSE,2025,Flash appeal,Escalation of Hostilities in the OPT Flash Appeal 2025,4073058682.0,2739533352.0,67.3,67.0
+SDN,2020,Humanitarian response plan,Sudan Humanitarian Response Plan 2020,1633403129.0,871899479.0,53.4,53.0
+SDN,2021,Humanitarian response plan,Sudan Humanitarian Response Plan 2021,1939814880.0,735578561.0,37.9,38.0
+SDN,2022,Humanitarian response plan,Sudan Humanitarian Response Plan 2022,1936697740.0,1113820373.0,57.5,58.0
+SDN,2023,Humanitarian response plan,Sudan Humanitarian Response Plan 2023,2565230201.0,1319365441.0,51.4,51.0
+SDN,2024,Humanitarian needs and response plan,Sudan Humanitarian Needs and Response Plan 2024,2695680744.0,1887870365.0,70.0,70.0
+SDN,2025,Humanitarian needs and response plan,Sudan Humanitarian Needs and Response Plan 2025,4162518656.0,1665355463.0,40.0,40.0
+UKR,2020,Humanitarian response plan,Ukraine Humanitarian Response Plan 2020,204653234.0,123841159.0,60.5,61.0
+UKR,2021,Humanitarian response plan,Ukraine Humanitarian Response Plan 2021,167982922.0,106445580.0,63.4,63.0
+UKR,2022,Flash appeal,Ukraine Flash Appeal 2022,4292463880.0,3765217036.0,87.7,88.0
+UKR,2023,Humanitarian response plan,Ukraine Humanitarian Response Plan 2023,3945656687.0,2913743118.0,73.8,74.0
+UKR,2024,Humanitarian needs and response plan,Ukraine Humanitarian Needs and Response Plan 2024,3107702931.0,2351804234.0,75.7,76.0
+UKR,2025,Humanitarian needs and response plan,Ukraine Humanitarian Needs and Response Plan 2025,2633534010.0,1663604574.0,63.2,63.0

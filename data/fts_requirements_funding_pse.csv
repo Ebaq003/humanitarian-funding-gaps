@@ -1,0 +1,57 @@
+countryCode,id,name,code,typeId,typeName,startDate,endDate,year,requirements,funding,percentFunded
+PSE,,Not specified,,,,,,2029,,5714286,
+PSE,,Not specified,,,,,,2028,,15044167,
+PSE,,Not specified,,,,,,2027,,64262857,
+PSE,1510,Escalation of Hostilities in the OPT Flash Appeal 2026,FPSE26,5,Flash appeal,2026-01-01,2026-12-31,2026,4064305808,1626417227,40
+PSE,,Not specified,,,,,,2026,,1410125840,
+PSE,1273,Escalation of Hostilities in the OPT Flash Appeal 2025,FPSE25,5,Flash appeal,2025-01-01,2025-12-31,2025,4073058682,2739533352,67
+PSE,,Not specified,,,,,,2025,,1676908174,
+PSE,1156,Escalation of Hostilities in the OPT Flash Appeal 2024,FPSE24,5,Flash appeal,2024-01-01,2024-12-31,2024,3422855934,2901298129,85
+PSE,,Not specified,,,,,,2024,,868853392,
+PSE,1109,Occupied Palestinian Territory Humanitarian Response Plan 2023,HPSE23,4,Humanitarian response plan,2023-01-01,2023-09-30,2023,376729201,372369862,99
+PSE,1186,Escalation of Hostilities in the OPT Flash Appeal 2023,FPSE23,5,Flash appeal,2023-10-01,2023-12-31,2023,629098307,651902505,104
+PSE,,Not specified,,,,,,2023,,844750617,
+PSE,1059,Occupied Palestinian Territory Humanitarian Response Plan 2022,HPSE22,4,Humanitarian response plan,2022-01-01,2022-12-31,2022,509872202,466212078,91
+PSE,,Not specified,,,,,,2022,,514724398,
+PSE,1012,Occupied Palestinian Territory Humanitarian Response Plan 2021,HPSE21,4,Humanitarian response plan,2021-01-01,2021-12-31,2021,417567330,376486928,90
+PSE,1049,Escalation of Hostilities in the OPT  Flash Appeal 2021,FPSE21,5,Flash appeal,2021-05-27,2021-08-27,2021,94862068,46920546,49
+PSE,,Not specified,,,,,,2021,,547334604,
+PSE,832,Occupied Palestinian Territory Humanitarian Response Plan 2020,HPSE20,4,Humanitarian response plan,2020-01-01,2020-12-31,2020,420381684,327419788,78
+PSE,,Not specified,,,,,,2020,,345546395,
+PSE,664,Occupied Palestinian Territory Humanitarian Response Strategy 2019,HPSE19,4,Humanitarian response plan,2019-01-01,2019-12-30,2019,350589271,292549322,83
+PSE,,Not specified,,,,,,2019,,88774592,
+PSE,633,Occupied Palestinian Territory Humanitarian Response Strategy 2018,HPSE18,4,Humanitarian response plan,2018-01-01,2018-12-31,2018,539721755,244057911,45
+PSE,,Not specified,,,,,,2018,,101387034,
+PSE,529,Occupied Palestinian Territory Humanitarian Response Plan 2017,HPSE17,4,Humanitarian response plan,2017-01-01,2017-12-31,2017,551876643,259033658,47
+PSE,,Not specified,,,,,,2017,,74235170,
+PSE,504,Occupied Palestinian Territory Humanitarian Response Plan 2016,HPSE16,4,Humanitarian response plan,2016-01-01,2016-12-31,2016,570702496,283951719,50
+PSE,,Not specified,,,,,,2016,,399016950,
+PSE,459,Occupied Palestinian Territory Strategic Response Plan 2015,HPSE15,2071,Strategic response plan,2015-01-01,2015-12-31,2015,706051110,397911825,56
+PSE,,Not specified,,,,,,2015,,215001319,
+PSE,435,Occupied Palestinian Territory Strategic Response Plan 2014,SPSE14,2071,Strategic response plan,2014-01-01,2014-12-31,2014,931086454,506977015,54
+PSE,,Not specified,,,,,,2014,,424953145,
+PSE,398,occupied Palestinian territory 2013,CPSE13,110,Consolidated appeals process,2013-01-01,2013-12-31,2013,400839740,270047918,67
+PSE,,Not specified,,,,,,2013,,153418486,
+PSE,374,occupied Palestinian territory 2012,CPSE12,110,Consolidated appeals process,2012-01-01,2012-12-31,2012,419907202,311466307,74
+PSE,,Not specified,,,,,,2012,,265485416,
+PSE,348,occupied Palestinian territory 2011,CPSE11,110,Consolidated appeals process,2011-01-01,2011-12-31,2011,536927963,306522538,57
+PSE,,Not specified,,,,,,2011,,225586340,
+PSE,316,occupied Palestinian territory 2010,CPSE10,110,Consolidated appeals process,2010-01-01,2010-12-31,2010,603408539,329737701,55
+PSE,,Not specified,,,,,,2010,,92292370,
+PSE,290,occupied Palestinian territory 2009,CPSE09,110,Consolidated appeals process,2009-01-01,2009-12-31,2009,804522005,646700051,80
+PSE,,Not specified,,,,,,2009,,225928105,
+PSE,261,occupied Palestinian territory 2008,CPSE08,110,Consolidated appeals process,2008-01-01,2008-12-31,2008,452223961,337058442,75
+PSE,,Not specified,,,,,,2008,,171370918,
+PSE,228,occupied Palestinian territory 2007,CPSE07,110,Consolidated appeals process,2007-01-01,2007-12-31,2007,426324665,279014878,65
+PSE,,Not specified,,,,,,2007,,84006654,
+PSE,199,occupied Palestinian territory 2006,CPSE06,110,Consolidated appeals process,2006-01-01,2006-12-31,2006,394883810,275830801,70
+PSE,,Not specified,,,,,,2006,,184385654,
+PSE,168,occupied Palestinian territory 2005,CPSE05,110,Consolidated appeals process,2005-01-01,2005-12-31,2005,301452508,213252866,71
+PSE,,Not specified,,,,,,2005,,84760600,
+PSE,146,occupied Palestinian territory 2004,CPSE04,110,Consolidated appeals process,2004-01-01,2004-12-31,2004,300479250,177281661,59
+PSE,,Not specified,,,,,,2004,,128768400,
+PSE,118,occupied Palestinian territory 2003,CPSE03,2170,Consolidated inter-agency appeal,2003-01-01,2003-12-31,2003,293774854,175863110,60
+PSE,,Not specified,,,,,,2003,,68557435,
+PSE,,Not specified,,,,,,2002,,46460730,
+PSE,,Not specified,,,,,,2001,,696528204,
+PSE,,Not specified,,,,,,2000,,132590780,
