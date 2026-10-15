@@ -41,11 +41,6 @@ print(
 #  checking the  columns in the plans table
 print(conn.sql("DESCRIBE Plans").df().to_string())
 
-# FIX 1: funding gap by country and year, using ONLY rows that have requirements.
-# Rows with funding but no requirements (money not linked to a plan, and future-year
-# pledges) used to be added to the funded total but not the needed total, which
-# pushed the % funded up. They are analysed separately further down.
-
 # funding gap by country and year
 print('Funding Vs Needed By Country and Year (plan rows only)')
 gap = conn.sql(f"""
@@ -64,12 +59,6 @@ gap = conn.sql(f"""
 
 print(gap.to_string())
 gap.to_csv("funding_gap_by_country_year.csv", index=False)
-
-# ---------------------------------------------------------------------------
-# FIX 2: one row per plan (HRP, flash appeal, etc.) so each row can be checked
-# against the original CSV. pct_funded_csv is the value FTS reports (whole numbers),
-# so expect pct_funded to differ from it by up to about 1 point because of rounding.
-# ---------------------------------------------------------------------------
 
 # funding gap by plan
 print('Funding Vs Needed By Plan')
